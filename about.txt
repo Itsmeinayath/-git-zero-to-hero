@@ -1,1 +1,2 @@
 "Hello, I am Mohammed" 
+"I know Python, JavaScript, Node.js, React, Docker" 
